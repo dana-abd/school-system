@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Students",
     "\\subjects"
   ],
-  "SelectedNode": "\\subjects\\add subject",
+  "SelectedNode": "\\subjects\\AddSubjectData.cs",
   "PreviewInSolutionExplorer": false
 }
